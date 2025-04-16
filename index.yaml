@@ -3,7 +3,7 @@ entries:
   cevdet-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-16T11:00:58.9720429Z"
+    created: "2025-04-16T11:16:13.183288887Z"
     description: A Helm chart for Kubernetes
     digest: b9578d9caba3f7ae36bd52cff1f258ea2f4cb713e5317c8cc00ebdb16902de33
     name: cevdet-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - cevdet-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2025-04-16T11:00:58.971596852Z"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-16T11:16:13.18412391Z"
+    description: A Helm chart for Kubernetes
+    digest: 890a3350ea5934a7706af71f4d61f864666f8c0089d5caca09b4053813530e82
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-16T11:16:13.182586209Z"
